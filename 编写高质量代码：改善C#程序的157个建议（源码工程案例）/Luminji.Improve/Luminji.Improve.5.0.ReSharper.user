@@ -1,0 +1,35 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="67FDD6FA-D35B-446B-96D3-AC73934A70D0/f:Form1.cs" caret="1230" fromTop="37" />
+      <File id="9A9022E3-EC46-4DDB-A6B0-96C077E3520A/f:Form1.cs" caret="1137" fromTop="0" />
+      <File id="411015C5-5344-4911-9088-31783977AD89/f:Program.cs" caret="560" fromTop="21" />
+      <File id="CAB700B4-C3E5-4589-A2D3-0D18ABEC214A/f:说明.txt/l:D!?life?写作?写作?配套代码?Luminji.Improve?说明.txt" caret="546" fromTop="28" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="67FDD6FA-D35B-446B-96D3-AC73934A70D0/f:Form1.cs" caret="1327" fromTop="40" />
+      <File id="67FDD6FA-D35B-446B-96D3-AC73934A70D0/f:Form1.cs" caret="1016" fromTop="33" />
+      <File id="67FDD6FA-D35B-446B-96D3-AC73934A70D0/f:Form1.cs" caret="1326" fromTop="40" />
+      <File id="67FDD6FA-D35B-446B-96D3-AC73934A70D0/f:Form1.cs" caret="533" fromTop="21" />
+      <File id="411015C5-5344-4911-9088-31783977AD89/f:Program.cs" caret="411" fromTop="16" />
+      <File id="411015C5-5344-4911-9088-31783977AD89/f:Program.cs" caret="560" fromTop="21" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

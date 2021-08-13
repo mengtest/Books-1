@@ -1,0 +1,9 @@
+D:\life\写作\示例代码\Luminji.Improve\Tip72\bin\Debug\Tip72.exe
+D:\life\写作\示例代码\Luminji.Improve\Tip72\bin\Debug\Tip72.pdb
+D:\life\写作\示例代码\Luminji.Improve\Tip72\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\life\写作\示例代码\Luminji.Improve\Tip72\obj\x86\Debug\Tip72.Form1.resources
+D:\life\写作\示例代码\Luminji.Improve\Tip72\obj\x86\Debug\Tip72.Properties.Resources.resources
+D:\life\写作\示例代码\Luminji.Improve\Tip72\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\life\写作\示例代码\Luminji.Improve\Tip72\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\life\写作\示例代码\Luminji.Improve\Tip72\obj\x86\Debug\Tip72.exe
+D:\life\写作\示例代码\Luminji.Improve\Tip72\obj\x86\Debug\Tip72.pdb

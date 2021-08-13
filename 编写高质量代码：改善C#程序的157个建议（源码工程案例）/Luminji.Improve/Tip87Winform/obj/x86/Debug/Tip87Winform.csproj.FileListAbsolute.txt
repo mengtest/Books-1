@@ -1,0 +1,9 @@
+D:\life\写作\示例代码\Luminji.Improve\Tip87Winform\bin\Debug\Tip87Winform.exe
+D:\life\写作\示例代码\Luminji.Improve\Tip87Winform\bin\Debug\Tip87Winform.pdb
+D:\life\写作\示例代码\Luminji.Improve\Tip87Winform\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\life\写作\示例代码\Luminji.Improve\Tip87Winform\obj\x86\Debug\Tip87Winform.Form1.resources
+D:\life\写作\示例代码\Luminji.Improve\Tip87Winform\obj\x86\Debug\Tip87Winform.Properties.Resources.resources
+D:\life\写作\示例代码\Luminji.Improve\Tip87Winform\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\life\写作\示例代码\Luminji.Improve\Tip87Winform\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\life\写作\示例代码\Luminji.Improve\Tip87Winform\obj\x86\Debug\Tip87Winform.exe
+D:\life\写作\示例代码\Luminji.Improve\Tip87Winform\obj\x86\Debug\Tip87Winform.pdb

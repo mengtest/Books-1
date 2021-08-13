@@ -1,0 +1,10 @@
+D:\life\写作\示例代码\Tip16\Tip16\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\life\写作\示例代码\Tip16\Tip16\bin\Debug\Tip16.exe
+D:\life\写作\示例代码\Tip16\Tip16\bin\Debug\Tip16.pdb
+D:\life\写作\示例代码\Tip16\Tip16\obj\x86\Debug\Tip16.exe
+D:\life\写作\示例代码\Tip16\Tip16\obj\x86\Debug\Tip16.pdb
+D:\life\写作\示例代码\Luminji.Improve\Tip16\bin\Debug\Tip16.exe
+D:\life\写作\示例代码\Luminji.Improve\Tip16\bin\Debug\Tip16.pdb
+D:\life\写作\示例代码\Luminji.Improve\Tip16\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\life\写作\示例代码\Luminji.Improve\Tip16\obj\x86\Debug\Tip16.exe
+D:\life\写作\示例代码\Luminji.Improve\Tip16\obj\x86\Debug\Tip16.pdb

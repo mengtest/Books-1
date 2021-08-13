@@ -1,0 +1,5 @@
+D:\life\写作\示例代码\Tip112\Tip112\bin\Debug\Tip112.exe
+D:\life\写作\示例代码\Tip112\Tip112\bin\Debug\Tip112.pdb
+D:\life\写作\示例代码\Tip112\Tip112\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\life\写作\示例代码\Tip112\Tip112\obj\x86\Debug\Tip112.exe
+D:\life\写作\示例代码\Tip112\Tip112\obj\x86\Debug\Tip112.pdb

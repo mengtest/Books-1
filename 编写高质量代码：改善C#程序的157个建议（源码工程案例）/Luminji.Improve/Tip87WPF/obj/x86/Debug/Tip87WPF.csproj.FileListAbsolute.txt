@@ -1,0 +1,13 @@
+D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\bin\Debug\Tip87WPF.exe
+D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\bin\Debug\Tip87WPF.pdb
+D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\obj\x86\Debug\MainWindow.baml
+D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\obj\x86\Debug\MainWindow.g.cs
+D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\obj\x86\Debug\App.g.cs
+D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\obj\x86\Debug\Tip87WPF_MarkupCompile.cache
+D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\obj\x86\Debug\Tip87WPF.g.resources
+D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\obj\x86\Debug\Tip87WPF.Properties.Resources.resources
+D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\obj\x86\Debug\Tip87WPF.exe
+D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\obj\x86\Debug\Tip87WPF.pdb

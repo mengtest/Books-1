@@ -1,0 +1,5 @@
+D:\life\写作\示例代码\Luminji.Improve\Tip61\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\life\写作\示例代码\Luminji.Improve\Tip61\bin\Debug\Tip61.exe
+D:\life\写作\示例代码\Luminji.Improve\Tip61\bin\Debug\Tip61.pdb
+D:\life\写作\示例代码\Luminji.Improve\Tip61\obj\x86\Debug\Tip61.exe
+D:\life\写作\示例代码\Luminji.Improve\Tip61\obj\x86\Debug\Tip61.pdb
