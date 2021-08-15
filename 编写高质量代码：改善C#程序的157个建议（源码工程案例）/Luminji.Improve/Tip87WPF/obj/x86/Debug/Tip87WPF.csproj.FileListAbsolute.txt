@@ -11,3 +11,15 @@ D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\obj\x86\Debug\GenerateResou
 D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\obj\x86\Debug\Tip87WPF.exe
 D:\life\写作\示例代码\Luminji.Improve\Tip87WPF\obj\x86\Debug\Tip87WPF.pdb
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip87WPF\bin\Debug\Tip87WPF.exe
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip87WPF\bin\Debug\Tip87WPF.pdb
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip87WPF\obj\x86\Debug\Tip87WPF.csprojAssemblyReference.cache
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip87WPF\obj\x86\Debug\MainWindow.baml
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip87WPF\obj\x86\Debug\MainWindow.g.cs
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip87WPF\obj\x86\Debug\App.g.cs
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip87WPF\obj\x86\Debug\Tip87WPF_MarkupCompile.cache
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip87WPF\obj\x86\Debug\Tip87WPF.g.resources
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip87WPF\obj\x86\Debug\Tip87WPF.Properties.Resources.resources
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip87WPF\obj\x86\Debug\Tip87WPF.csproj.GenerateResource.cache
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip87WPF\obj\x86\Debug\Tip87WPF.exe
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip87WPF\obj\x86\Debug\Tip87WPF.pdb

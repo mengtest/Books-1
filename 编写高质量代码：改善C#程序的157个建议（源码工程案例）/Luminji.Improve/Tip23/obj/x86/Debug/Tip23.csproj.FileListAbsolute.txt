@@ -8,3 +8,7 @@ D:\life\写作\示例代码\Luminji.Improve\Tip23\bin\Debug\Tip23.pdb
 D:\life\写作\示例代码\Luminji.Improve\Tip23\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\life\写作\示例代码\Luminji.Improve\Tip23\obj\x86\Debug\Tip23.exe
 D:\life\写作\示例代码\Luminji.Improve\Tip23\obj\x86\Debug\Tip23.pdb
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip23\bin\Debug\Tip23.exe
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip23\bin\Debug\Tip23.pdb
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip23\obj\x86\Debug\Tip23.exe
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip23\obj\x86\Debug\Tip23.pdb

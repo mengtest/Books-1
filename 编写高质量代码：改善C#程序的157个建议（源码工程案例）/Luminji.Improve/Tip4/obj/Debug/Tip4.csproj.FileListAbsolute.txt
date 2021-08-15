@@ -1,0 +1,4 @@
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip4\bin\Debug\Tip4.exe
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip4\bin\Debug\Tip4.pdb
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip4\obj\Debug\Tip4.exe
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip4\obj\Debug\Tip4.pdb

@@ -3,3 +3,7 @@ D:\life\写作\示例代码\Luminji.Improve\Tip77\bin\Debug\Tip77.pdb
 D:\life\写作\示例代码\Luminji.Improve\Tip77\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\life\写作\示例代码\Luminji.Improve\Tip77\obj\x86\Debug\Tip77.exe
 D:\life\写作\示例代码\Luminji.Improve\Tip77\obj\x86\Debug\Tip77.pdb
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip77\bin\Debug\Tip77.exe
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip77\bin\Debug\Tip77.pdb
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip77\obj\x86\Debug\Tip77.exe
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip77\obj\x86\Debug\Tip77.pdb

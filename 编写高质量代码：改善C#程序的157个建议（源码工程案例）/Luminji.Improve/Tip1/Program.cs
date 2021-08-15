@@ -9,6 +9,8 @@ namespace Tip1
     {
         static void Main(string[] args)
         {
+
+            Console.ReadKey();
         }
 
         private static void NewMethod1()
@@ -20,8 +22,12 @@ namespace Tip1
 
         private static void NewMethod6()
         {
-            string re6 = 9 + "456";     //该代码发生一次装箱，并调
+            string re6 = 9 + "456";     //该代码发生一次装箱，并调    ****IL代码里并没有装箱 只要一个call调用
             //用一次string.Contact方法
+            int a = 10;
+            a.ToString();
+
+            object c = a;  //这句才会发生装箱
         }
 
         private static void NewMethod2()

@@ -16,3 +16,11 @@ D:\life\写作\写作\配套代码\Luminji.Improve\Tip71\obj\x86\Debug\GenerateR
 D:\life\写作\写作\配套代码\Luminji.Improve\Tip71\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\life\写作\写作\配套代码\Luminji.Improve\Tip71\obj\x86\Debug\Tip71.exe
 D:\life\写作\写作\配套代码\Luminji.Improve\Tip71\obj\x86\Debug\Tip71.pdb
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip71\bin\Debug\Tip71.exe
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip71\bin\Debug\Tip71.pdb
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip71\obj\x86\Debug\Tip71.csprojAssemblyReference.cache
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip71\obj\x86\Debug\Tip71.Form1.resources
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip71\obj\x86\Debug\Tip71.Properties.Resources.resources
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip71\obj\x86\Debug\Tip71.csproj.GenerateResource.cache
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip71\obj\x86\Debug\Tip71.exe
+F:\hxp\GitRes\编写高质量代码：改善C#程序的157个建议（源码工程案例）\Luminji.Improve\Tip71\obj\x86\Debug\Tip71.pdb
