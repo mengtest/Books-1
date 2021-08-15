@@ -13,6 +13,12 @@ namespace Tip9
             Salary roseIncome = new Salary() { RMB = 33 };
             //Salary familyIncome = Salary.Add(mikeIncome, roseIncome);
             Salary familyIncome = mikeIncome + roseIncome;
+
+            Console.WriteLine($"roseIncome==============={roseIncome.RMB}");
+            Console.WriteLine($"mikeIncome==============={mikeIncome.RMB}");
+            Console.WriteLine($"familyIncome==============={familyIncome.RMB}");
+
+            Console.ReadKey();
         }
     }
 
