@@ -11,6 +11,7 @@ namespace Tip42
         {
             ISalary<Programmer> s = new BaseSalaryCounter<Programmer>();
             PrintSalary(s);
+            Console.ReadKey();
         }
 
         //static void PrintSalary(ISalary<Employee> s)
