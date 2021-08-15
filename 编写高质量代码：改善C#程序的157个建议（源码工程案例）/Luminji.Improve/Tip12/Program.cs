@@ -14,6 +14,7 @@ namespace Tip12
             Person mike = new Person("NB123");
             //Console.WriteLine(mike.GetHashCode());
             Console.WriteLine(PersonValues.ContainsKey(mike));
+            Console.ReadKey();
         }
 
         static void AddAPerson()

@@ -57,7 +57,7 @@ namespace Tip11
 
     }
 
-    class Person
+    class Person:IEquatable<Person>
     {
         public string IDCode { get; private set; }
 
@@ -66,9 +66,14 @@ namespace Tip11
             this.IDCode = idCode;
         }
 
-        public override bool Equals(object obj)
+        //public override bool Equals(object obj)
+        //{
+        //    return IDCode == (obj as Person).IDCode;
+        //}
+
+        public bool Equals(Person other)
         {
-            return IDCode == (obj as Person).IDCode;
+            return IDCode == other.IDCode;
         }
     }
 
