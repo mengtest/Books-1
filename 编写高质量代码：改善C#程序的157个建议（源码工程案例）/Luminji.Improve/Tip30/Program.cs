@@ -22,7 +22,8 @@ namespace Tip30
                 Console.WriteLine(string.Format("Name:{0} \tBaseSalary:{1} \tBonus:{2}", item.Name, item.BaseSalary, item.Bonus));
             }
             Console.WriteLine("BaseSalary排序：");
-            var orderByBaseSalary = from s in companySalary orderby s.BaseSalary select s;
+            //默认升序排， descending为降序
+            var orderByBaseSalary = from s in companySalary orderby s.BaseSalary descending select s;
             foreach (Salary item in orderByBaseSalary)
             {
                 Console.WriteLine(string.Format("Name:{0} \tBaseSalary:{1} \tBonus:{2}", item.Name, item.BaseSalary, item.Bonus));
@@ -33,6 +34,8 @@ namespace Tip30
             {
                 Console.WriteLine(string.Format("Name:{0} \tBaseSalary:{1} \tBonus:{2}", item.Name, item.BaseSalary, item.Bonus));
             }
+
+            Console.ReadKey();
         }
 
         class Salary

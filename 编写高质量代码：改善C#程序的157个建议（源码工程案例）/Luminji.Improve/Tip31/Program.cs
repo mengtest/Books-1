@@ -14,6 +14,8 @@ namespace Tip31
             var temp = (from c in list where c.Age == 20 select c).ToList();
             Console.WriteLine(list.IteratedNum.ToString());
             list.IteratedNum = 0;
+
+            //First 在满足条件后，会从当前的迭代过程中直接返回，而不是等整个迭代过程完毕再返回， 效率更高
             var temp2 = (from c in list where c.Age >= 20 select c).First();
             Console.WriteLine(list.IteratedNum.ToString());
 
