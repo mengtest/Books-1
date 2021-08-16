@@ -13,6 +13,7 @@ namespace Tip51
         }
     }
 
+    // 一个类A中，如果包含了继承IDisposable的对象属性，最好A也继承IDisposable 实现标准的Dispose模式
     class AnotherSampleClass : IDisposable
     {
         private AnotherResource managedResource = new AnotherResource();

@@ -69,7 +69,7 @@ namespace Tip49
         public void Dispose()
         {
             //必须为true
-            Dispose(true);
+            Dispose(true); //同时释放托管资源和非托管资源
             //通知垃圾回收机制不再调用终结器（析构器）
             GC.SuppressFinalize(this);
         }
@@ -89,7 +89,7 @@ namespace Tip49
         ~SampleClass()
         {
             //必须为false
-            Dispose(false);
+            Dispose(false);  //托管资源已经被垃圾回收器释放了，这里只要是否非托管资源即可
         }
 
         /// <summary>
